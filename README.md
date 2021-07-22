@@ -4,4 +4,4 @@
 # Resources
 
 > <Subtitle>
-> Want to learn something new but can't find resources to learn? This repository will take care of all your learning needs.
+> A curated list of resources exclusively for PASC membes | PR's are always welcome:)
